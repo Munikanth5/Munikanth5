@@ -32,10 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munikanth5&show_icons=true&locale=en&layout=compact" alt="munikanth5" /></p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd9c7032-886a-4ebb-928b-291f75bc11f9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munikanth5&show_icons=true&locale=en" alt="munikanth5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munikanth5&" alt="munikanth5" /></p>
 
 
