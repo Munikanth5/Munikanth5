@@ -32,5 +32,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munikanth5&show_icons=true&locale=en&layout=compact" alt="munikanth5" /></p>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
 
 
